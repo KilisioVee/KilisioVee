@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Kilisio Veronicah
+- 🔭 I’m currently working on ASP.NET and Flutter Frameworks projects.My proficiency spans various programming languages and technologies(C#, .NET Framework, ASP.NET Core, ASP.NET MVC, MSSQL, RESTful API, Flutter Framework).
 <!--
 **KilisioVee/KilisioVee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
